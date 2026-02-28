@@ -1,6 +1,10 @@
+<div align="center">
+
 # 墨心 (Mxin)
 
-以墨见心，以情解画——首个面向中国传统艺术的情感理解多模态大模型
+**以墨见心，以情解画——首个面向中国传统艺术的情感理解多模态大模型**
+
+</div>
 
 ***
 
@@ -508,3 +512,8 @@ Haiyang Yu, Jiajia Zhang, Liang Wei, Yan Cao, Yingying Hu, Bin Hou
 
 ***
 
+<div align="center">
+
+**以墨见心，以情解画。让每一次与画作的相遇，都成为一场跨越时空的情感共振。**
+
+</div>
